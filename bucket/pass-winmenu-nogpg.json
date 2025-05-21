@@ -1,0 +1,28 @@
+{
+    "version": "1.14.1-gab",
+    "description": "A simple, easy-to-use password manager for Windows that follows the philosophy of (and is compatible with) the Linux password manager pass.",
+    "homepage": "https://github.com/ggiammat/pass-winmenu",
+    "license": "MIT",
+    "suggest": {
+        "GPG": [
+            "gnupg1",
+            "gpg",
+            "extras/gpg4win"
+        ]
+    },
+    "url": "https://github.com/ggiammat/pass-winmenu/releases/download/1.14.1-gab/pass-winmenu-nogpg.zip",
+    "hash": "acac420310e96bd6bb21166b911480a9d560c014e25dd999d3d84138ca2e35e4",
+    "extract_dir": "pass-winmenu",
+    "bin": "pass-winmenu.exe",
+    "shortcuts": [
+        [
+            "pass-winmenu.exe",
+            "Pass-winmenu"
+        ]
+    ],
+    "persist": "pass-winmenu.yaml",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Baggykiin/pass-winmenu/releases/download/$version/pass-winmenu-nogpg.zip"
+    }
+}
