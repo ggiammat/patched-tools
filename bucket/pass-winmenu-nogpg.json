@@ -23,6 +23,6 @@
     "persist": "pass-winmenu.yaml",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/Baggykiin/pass-winmenu/releases/download/$version/pass-winmenu-nogpg.zip"
+        "url": "https://github.com/ggiammat/pass-winmenu/releases/download/$version/pass-winmenu-nogpg.zip"
     }
 }
