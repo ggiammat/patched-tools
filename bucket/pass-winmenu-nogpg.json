@@ -11,7 +11,7 @@
         ]
     },
     "url": "https://github.com/ggiammat/pass-winmenu/releases/download/1.14.2-gab/pass-winmenu-nogpg.zip",
-    "hash": "acac420310e96bd6bb21166b911480a9d560c014e25dd999d3d84138ca2e35e4",
+    "hash": "2d1586b6825fdb4d66adfe16dff9ab5d5b8f3b37bc56ed1d13425d8dac1045e7",
     "extract_dir": "pass-winmenu",
     "bin": "pass-winmenu.exe",
     "shortcuts": [
